@@ -1,0 +1,33 @@
+Ether / IP / UDP / DNS Qry "_googlecast._tcp.local." 
+Ether / IPv6 / UDP / DNS Qry "_googlecast._tcp.local." 
+Ether / IP / ICMP 192.168.10.1 > 192.168.10.2 echo-request 0 / Raw
+count: 3
+uplink ,deliverID: 1, time: 53
+uplink ,deliverID: 2, time: 53
+uplink ,deliverID: 3, time: 53
+uplink ,deliverID: 4, time: 312
+uplink ,deliverID: 5, time: 922
+uplink ,deliverID: 6, time: 1962
+uplink ,deliverID: 7, time: 2943
+uplink ,deliverID: 8, time: 3931
+uplink ,deliverID: 9, time: 4943
+uplink ,deliverID: 10, time: 5931
+uplink ,deliverID: 11, time: 6941
+uplink ,deliverID: 12, time: 7943
+uplink ,deliverID: 13, time: 8951
+uplink ,deliverID: 14, time: 9952
+uplink ,deliverID: 15, time: 10982
+uplink ,deliverID: 16, time: 10982
+uplink ,deliverID: 17, time: 11961
+uplink ,deliverID: 18, time: 12992
+uplink ,deliverID: 19, time: 13962
+uplink ,deliverID: 20, time: 14971
+uplink ,deliverID: 21, time: 15963
+uplink ,deliverID: 22, time: 16993
+uplink ,deliverID: 23, time: 17982
+uplink ,deliverID: 24, time: 18992
+uplink ,deliverID: 25, time: 19992
+uplink ,deliverID: 26, time: 20991
+uplink ,deliverID: 27, time: 22022
+uplink ,deliverID: 28, time: 23329
+uplink ,deliverID: 29, time: 24310
